@@ -55,6 +55,13 @@ body {
   cursor: pointer;
   font-size: 0.95rem;
 }
+.nav-links button:active{
+  background: white;
+  padding: 5px 10.2px;
+  font-weight: bold;
+  color: black;
+
+}
 .hero {
   background-color: #000;
   border-radius: var(--border-radius);
